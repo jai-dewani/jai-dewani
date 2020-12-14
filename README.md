@@ -10,6 +10,8 @@
 Follow me on Github: ![GitHub followers](https://img.shields.io/github/followers/jai-dewani?label=Follow&style=social)  
 Follow me on Twitter: ![Twitter Follow](https://img.shields.io/twitter/follow/jai_dewani?label=Follow&style=social)  
 
+[![My github stats](https://github-readme-stats.vercel.app/api?username=jai-dewani)](https://github.com/jai-dewani?tab=repositories)
+
 ### Recent Blog Posts
 <!-- BLOG-POST-LIST:START -->
 - [CTC Inflation, What? Why? How?](https://blogs.jaid.tech/ctc-inflation/)
