@@ -14,7 +14,7 @@ Follow me on Twitter: ![Twitter Follow](https://img.shields.io/twitter/follow/ja
 
 ### Recent Blog Posts
 <!-- BLOG-POST-LIST:START -->
-- [Extracting Images, Audio, Videos from Microsoft Office files](https://blogs.jaid.tech/extracting-data-from-microsoft-office/)
+- [Extracting Images, Audio and Videos from Microsoft Office files](https://blogs.jaid.tech/extracting-data-from-microsoft-office/)
 - [CTC Inflation, What? Why? How?](https://blogs.jaid.tech/ctc-inflation/)
 - [Everything you are doing wrong with console.log](https://blogs.jaid.tech/console-methods/)
 - [Creating Youtube Downloader using Youtube Data API v3](https://blogs.jaid.tech/youtube-downloader/)
