@@ -14,11 +14,11 @@ Follow me on Twitter: ![Twitter Follow](https://img.shields.io/twitter/follow/ja
 
 ### Recent Blog Posts
 <!-- BLOG-POST-LIST:START -->
+- [Windows file explorer being overprotective](https://blogs.jaid.tech/windows-file-structure/)
 - [Carl Zeiss Interview Experience - FullStack Developer](https://blogs.jaid.tech/carl-zeiss-interview-experience/)
 - [Create Your Own Whatsapp Spambot in 5 Minutes](https://blogs.jaid.tech/automate-whatsapp/)
 - [Extracting Images, Audio and Videos from Microsoft Office files](https://blogs.jaid.tech/extracting-data-from-microsoft-office/)
 - [CTC Inflation, What? Why? How?](https://blogs.jaid.tech/ctc-inflation/)
-- [Everything you are doing wrong with console.log](https://blogs.jaid.tech/console-methods/)
 <!-- BLOG-POST-LIST:END -->
 
 ![](https://komarev.com/ghpvc/?username=jai-dewani&color=blue)
