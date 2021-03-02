@@ -1,5 +1,5 @@
 
-### Hi there I am [Jai](jaid.tech) 👋
+### Hi there I am [Jai](https://jaid.tech) 👋
 
 - 🔭 I’m currently working on getting a job/internship
 - 🌱 I’m currently learning React and revisiting node.js
