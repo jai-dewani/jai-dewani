@@ -21,4 +21,3 @@ Follow me on Twitter: ![Twitter Follow](https://img.shields.io/twitter/follow/ja
 - [Extracting Images, Audio and Videos from Microsoft Office files](https://blogs.jaid.tech/extracting-data-from-microsoft-office/)
 <!-- BLOG-POST-LIST:END -->
 
-![](https://komarev.com/ghpvc/?username=jai-dewani&color=blue)
