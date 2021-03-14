@@ -23,3 +23,9 @@ Follow me on Twitter: ![Twitter Follow](https://img.shields.io/twitter/follow/ja
 
 ##### My Recent Activity
 <!--START_SECTION:activity-->
+1. 🗣 Commented on [#55](https://github.com/EddieHubCommunity/gh-action-community/issues/55) in [EddieHubCommunity/gh-action-community](https://github.com/EddieHubCommunity/gh-action-community)
+2. 🎉 Merged PR [#13](https://github.com/jai-dewani/jai-dewani.github.io/pull/13) in [jai-dewani/jai-dewani.github.io](https://github.com/jai-dewani/jai-dewani.github.io)
+3. ❗️ Closed issue [#12](https://github.com/jai-dewani/jai-dewani.github.io/issues/12) in [jai-dewani/jai-dewani.github.io](https://github.com/jai-dewani/jai-dewani.github.io)
+4. 💪 Opened PR [#13](https://github.com/jai-dewani/jai-dewani.github.io/pull/13) in [jai-dewani/jai-dewani.github.io](https://github.com/jai-dewani/jai-dewani.github.io)
+5. ❗️ Opened issue [#12](https://github.com/jai-dewani/jai-dewani.github.io/issues/12) in [jai-dewani/jai-dewani.github.io](https://github.com/jai-dewani/jai-dewani.github.io)
+<!--END_SECTION:activity-->
