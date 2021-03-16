@@ -23,9 +23,9 @@ Follow me on Twitter: ![Twitter Follow](https://img.shields.io/twitter/follow/ja
 
 ##### My Recent Activity
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#7](https://github.com/jai-dewani/Tweet-PRs/pull/7) in [jai-dewani/Tweet-PRs](https://github.com/jai-dewani/Tweet-PRs)
-2. 💪 Opened PR [#7](https://github.com/jai-dewani/Tweet-PRs/pull/7) in [jai-dewani/Tweet-PRs](https://github.com/jai-dewani/Tweet-PRs)
-3. 🎉 Merged PR [#6](https://github.com/jai-dewani/Tweet-PRs/pull/6) in [jai-dewani/Tweet-PRs](https://github.com/jai-dewani/Tweet-PRs)
-4. 💪 Opened PR [#6](https://github.com/jai-dewani/Tweet-PRs/pull/6) in [jai-dewani/Tweet-PRs](https://github.com/jai-dewani/Tweet-PRs)
-5. ❗️ Closed issue [#5](https://github.com/jai-dewani/Tweet-PRs/issues/5) in [jai-dewani/Tweet-PRs](https://github.com/jai-dewani/Tweet-PRs)
+1. 💪 Opened PR [#8](https://github.com/jai-dewani/Tweet-PRs/pull/8) in [jai-dewani/Tweet-PRs](https://github.com/jai-dewani/Tweet-PRs)
+2. 🎉 Merged PR [#7](https://github.com/jai-dewani/Tweet-PRs/pull/7) in [jai-dewani/Tweet-PRs](https://github.com/jai-dewani/Tweet-PRs)
+3. 💪 Opened PR [#7](https://github.com/jai-dewani/Tweet-PRs/pull/7) in [jai-dewani/Tweet-PRs](https://github.com/jai-dewani/Tweet-PRs)
+4. 🎉 Merged PR [#6](https://github.com/jai-dewani/Tweet-PRs/pull/6) in [jai-dewani/Tweet-PRs](https://github.com/jai-dewani/Tweet-PRs)
+5. 💪 Opened PR [#6](https://github.com/jai-dewani/Tweet-PRs/pull/6) in [jai-dewani/Tweet-PRs](https://github.com/jai-dewani/Tweet-PRs)
 <!--END_SECTION:activity-->
