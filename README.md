@@ -23,9 +23,9 @@ Follow me on Twitter: ![Twitter Follow](https://img.shields.io/twitter/follow/ja
 
 ##### My Recent Activity
 <!--START_SECTION:activity-->
-1. ❗️ Opened issue [#156](https://github.com/EddieHubCommunity/EddieHubCommunity.github.io/issues/156) in [EddieHubCommunity/EddieHubCommunity.github.io](https://github.com/EddieHubCommunity/EddieHubCommunity.github.io)
-2. ❗️ Opened issue [#155](https://github.com/EddieHubCommunity/EddieHubCommunity.github.io/issues/155) in [EddieHubCommunity/EddieHubCommunity.github.io](https://github.com/EddieHubCommunity/EddieHubCommunity.github.io)
-3. 🎉 Merged PR [#1](https://github.com/jai-dewani/EddieHubCommunity.github.io/pull/1) in [jai-dewani/EddieHubCommunity.github.io](https://github.com/jai-dewani/EddieHubCommunity.github.io)
-4. 💪 Opened PR [#1](https://github.com/jai-dewani/EddieHubCommunity.github.io/pull/1) in [jai-dewani/EddieHubCommunity.github.io](https://github.com/jai-dewani/EddieHubCommunity.github.io)
-5. ❗️ Closed issue [#4577](https://github.com/github/docs/issues/4577) in [github/docs](https://github.com/github/docs)
+1. 🗣 Commented on [#155](https://github.com/EddieHubCommunity/EddieHubCommunity.github.io/issues/155) in [EddieHubCommunity/EddieHubCommunity.github.io](https://github.com/EddieHubCommunity/EddieHubCommunity.github.io)
+2. ❗️ Opened issue [#156](https://github.com/EddieHubCommunity/EddieHubCommunity.github.io/issues/156) in [EddieHubCommunity/EddieHubCommunity.github.io](https://github.com/EddieHubCommunity/EddieHubCommunity.github.io)
+3. ❗️ Opened issue [#155](https://github.com/EddieHubCommunity/EddieHubCommunity.github.io/issues/155) in [EddieHubCommunity/EddieHubCommunity.github.io](https://github.com/EddieHubCommunity/EddieHubCommunity.github.io)
+4. 🎉 Merged PR [#1](https://github.com/jai-dewani/EddieHubCommunity.github.io/pull/1) in [jai-dewani/EddieHubCommunity.github.io](https://github.com/jai-dewani/EddieHubCommunity.github.io)
+5. 💪 Opened PR [#1](https://github.com/jai-dewani/EddieHubCommunity.github.io/pull/1) in [jai-dewani/EddieHubCommunity.github.io](https://github.com/jai-dewani/EddieHubCommunity.github.io)
 <!--END_SECTION:activity-->
