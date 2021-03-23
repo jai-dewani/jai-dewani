@@ -23,9 +23,9 @@ Follow me on Twitter: ![Twitter Follow](https://img.shields.io/twitter/follow/ja
 
 ##### My Recent Activity
 <!--START_SECTION:activity-->
-1. ❗️ Opened issue [#126](https://github.com/shrutikapoor08/talent-for-hire/issues/126) in [shrutikapoor08/talent-for-hire](https://github.com/shrutikapoor08/talent-for-hire)
-2. 🗣 Commented on [#156](https://github.com/EddieHubCommunity/EddieHubCommunity.github.io/issues/156) in [EddieHubCommunity/EddieHubCommunity.github.io](https://github.com/EddieHubCommunity/EddieHubCommunity.github.io)
+1. ❗️ Opened issue [#127](https://github.com/shrutikapoor08/talent-for-hire/issues/127) in [shrutikapoor08/talent-for-hire](https://github.com/shrutikapoor08/talent-for-hire)
+2. ❗️ Opened issue [#126](https://github.com/shrutikapoor08/talent-for-hire/issues/126) in [shrutikapoor08/talent-for-hire](https://github.com/shrutikapoor08/talent-for-hire)
 3. 🗣 Commented on [#156](https://github.com/EddieHubCommunity/EddieHubCommunity.github.io/issues/156) in [EddieHubCommunity/EddieHubCommunity.github.io](https://github.com/EddieHubCommunity/EddieHubCommunity.github.io)
-4. 🗣 Commented on [#155](https://github.com/EddieHubCommunity/EddieHubCommunity.github.io/issues/155) in [EddieHubCommunity/EddieHubCommunity.github.io](https://github.com/EddieHubCommunity/EddieHubCommunity.github.io)
-5. ❗️ Opened issue [#156](https://github.com/EddieHubCommunity/EddieHubCommunity.github.io/issues/156) in [EddieHubCommunity/EddieHubCommunity.github.io](https://github.com/EddieHubCommunity/EddieHubCommunity.github.io)
+4. 🗣 Commented on [#156](https://github.com/EddieHubCommunity/EddieHubCommunity.github.io/issues/156) in [EddieHubCommunity/EddieHubCommunity.github.io](https://github.com/EddieHubCommunity/EddieHubCommunity.github.io)
+5. 🗣 Commented on [#155](https://github.com/EddieHubCommunity/EddieHubCommunity.github.io/issues/155) in [EddieHubCommunity/EddieHubCommunity.github.io](https://github.com/EddieHubCommunity/EddieHubCommunity.github.io)
 <!--END_SECTION:activity-->
