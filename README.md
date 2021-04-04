@@ -23,9 +23,9 @@ Follow me on Twitter: ![Twitter Follow](https://img.shields.io/twitter/follow/ja
 
 ##### My Recent Activity
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#15](https://github.com/jai-dewani/Tweet-PRs/pull/15) in [jai-dewani/Tweet-PRs](https://github.com/jai-dewani/Tweet-PRs)
-2. 💪 Opened PR [#15](https://github.com/jai-dewani/Tweet-PRs/pull/15) in [jai-dewani/Tweet-PRs](https://github.com/jai-dewani/Tweet-PRs)
-3. ❗️ Opened issue [#127](https://github.com/shrutikapoor08/talent-for-hire/issues/127) in [shrutikapoor08/talent-for-hire](https://github.com/shrutikapoor08/talent-for-hire)
-4. ❗️ Opened issue [#126](https://github.com/shrutikapoor08/talent-for-hire/issues/126) in [shrutikapoor08/talent-for-hire](https://github.com/shrutikapoor08/talent-for-hire)
-5. 🗣 Commented on [#156](https://github.com/EddieHubCommunity/EddieHubCommunity.github.io/issues/156) in [EddieHubCommunity/EddieHubCommunity.github.io](https://github.com/EddieHubCommunity/EddieHubCommunity.github.io)
+1. ❗️ Opened issue [#17](https://github.com/jai-dewani/Tweet-PRs/issues/17) in [jai-dewani/Tweet-PRs](https://github.com/jai-dewani/Tweet-PRs)
+2. ❗️ Closed issue [#16](https://github.com/jai-dewani/Tweet-PRs/issues/16) in [jai-dewani/Tweet-PRs](https://github.com/jai-dewani/Tweet-PRs)
+3. ❗️ Opened issue [#16](https://github.com/jai-dewani/Tweet-PRs/issues/16) in [jai-dewani/Tweet-PRs](https://github.com/jai-dewani/Tweet-PRs)
+4. 🎉 Merged PR [#15](https://github.com/jai-dewani/Tweet-PRs/pull/15) in [jai-dewani/Tweet-PRs](https://github.com/jai-dewani/Tweet-PRs)
+5. 💪 Opened PR [#15](https://github.com/jai-dewani/Tweet-PRs/pull/15) in [jai-dewani/Tweet-PRs](https://github.com/jai-dewani/Tweet-PRs)
 <!--END_SECTION:activity-->
