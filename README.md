@@ -23,9 +23,9 @@ Follow me on Twitter: ![Twitter Follow](https://img.shields.io/twitter/follow/ja
 
 ##### My Recent Activity
 <!--START_SECTION:activity-->
-1. ❗️ Opened issue [#17](https://github.com/jai-dewani/Tweet-PRs/issues/17) in [jai-dewani/Tweet-PRs](https://github.com/jai-dewani/Tweet-PRs)
-2. ❗️ Closed issue [#16](https://github.com/jai-dewani/Tweet-PRs/issues/16) in [jai-dewani/Tweet-PRs](https://github.com/jai-dewani/Tweet-PRs)
-3. ❗️ Opened issue [#16](https://github.com/jai-dewani/Tweet-PRs/issues/16) in [jai-dewani/Tweet-PRs](https://github.com/jai-dewani/Tweet-PRs)
-4. 🎉 Merged PR [#15](https://github.com/jai-dewani/Tweet-PRs/pull/15) in [jai-dewani/Tweet-PRs](https://github.com/jai-dewani/Tweet-PRs)
-5. 💪 Opened PR [#15](https://github.com/jai-dewani/Tweet-PRs/pull/15) in [jai-dewani/Tweet-PRs](https://github.com/jai-dewani/Tweet-PRs)
+1. 🗣 Commented on [#14](https://github.com/katherinepeterson/readme.so/issues/14) in [katherinepeterson/readme.so](https://github.com/katherinepeterson/readme.so)
+2. ❗️ Opened issue [#17](https://github.com/jai-dewani/Tweet-PRs/issues/17) in [jai-dewani/Tweet-PRs](https://github.com/jai-dewani/Tweet-PRs)
+3. ❗️ Closed issue [#16](https://github.com/jai-dewani/Tweet-PRs/issues/16) in [jai-dewani/Tweet-PRs](https://github.com/jai-dewani/Tweet-PRs)
+4. ❗️ Opened issue [#16](https://github.com/jai-dewani/Tweet-PRs/issues/16) in [jai-dewani/Tweet-PRs](https://github.com/jai-dewani/Tweet-PRs)
+5. 🎉 Merged PR [#15](https://github.com/jai-dewani/Tweet-PRs/pull/15) in [jai-dewani/Tweet-PRs](https://github.com/jai-dewani/Tweet-PRs)
 <!--END_SECTION:activity-->
