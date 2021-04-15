@@ -23,9 +23,9 @@ Follow me on Twitter: ![Twitter Follow](https://img.shields.io/twitter/follow/ja
 
 ##### My Recent Activity
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#49](https://github.com/katherinepeterson/readme.so/issues/49) in [katherinepeterson/readme.so](https://github.com/katherinepeterson/readme.so)
-2. 🗣 Commented on [#35](https://github.com/katherinepeterson/readme.so/issues/35) in [katherinepeterson/readme.so](https://github.com/katherinepeterson/readme.so)
-3. 🗣 Commented on [#14](https://github.com/katherinepeterson/readme.so/issues/14) in [katherinepeterson/readme.so](https://github.com/katherinepeterson/readme.so)
-4. 🗣 Commented on [#38](https://github.com/katherinepeterson/readme.so/issues/38) in [katherinepeterson/readme.so](https://github.com/katherinepeterson/readme.so)
-5. ❗️ Opened issue [#40](https://github.com/katherinepeterson/readme.so/issues/40) in [katherinepeterson/readme.so](https://github.com/katherinepeterson/readme.so)
+1. ❗️ Opened issue [#438](https://github.com/EddieHubCommunity/awesome-github-profiles/issues/438) in [EddieHubCommunity/awesome-github-profiles](https://github.com/EddieHubCommunity/awesome-github-profiles)
+2. 🗣 Commented on [#49](https://github.com/katherinepeterson/readme.so/issues/49) in [katherinepeterson/readme.so](https://github.com/katherinepeterson/readme.so)
+3. 🗣 Commented on [#35](https://github.com/katherinepeterson/readme.so/issues/35) in [katherinepeterson/readme.so](https://github.com/katherinepeterson/readme.so)
+4. 🗣 Commented on [#14](https://github.com/katherinepeterson/readme.so/issues/14) in [katherinepeterson/readme.so](https://github.com/katherinepeterson/readme.so)
+5. 🗣 Commented on [#38](https://github.com/katherinepeterson/readme.so/issues/38) in [katherinepeterson/readme.so](https://github.com/katherinepeterson/readme.so)
 <!--END_SECTION:activity-->
