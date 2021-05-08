@@ -23,9 +23,9 @@ Follow me on Twitter: ![Twitter Follow](https://img.shields.io/twitter/follow/ja
 
 ##### My Recent Activity
 <!--START_SECTION:activity-->
-1. ❌ Closed PR [#11](https://github.com/jai-dewani/Meme-App/pull/11) in [jai-dewani/Meme-App](https://github.com/jai-dewani/Meme-App)
-2. 🗣 Commented on [#11](https://github.com/jai-dewani/Meme-App/issues/11) in [jai-dewani/Meme-App](https://github.com/jai-dewani/Meme-App)
-3. ❗️ Opened issue [#438](https://github.com/EddieHubCommunity/awesome-github-profiles/issues/438) in [EddieHubCommunity/awesome-github-profiles](https://github.com/EddieHubCommunity/awesome-github-profiles)
-4. 🗣 Commented on [#49](https://github.com/katherinepeterson/readme.so/issues/49) in [katherinepeterson/readme.so](https://github.com/katherinepeterson/readme.so)
-5. 🗣 Commented on [#35](https://github.com/katherinepeterson/readme.so/issues/35) in [katherinepeterson/readme.so](https://github.com/katherinepeterson/readme.so)
+1. 🎉 Merged PR [#23](https://github.com/jai-dewani/Meme-App/pull/23) in [jai-dewani/Meme-App](https://github.com/jai-dewani/Meme-App)
+2. 💪 Opened PR [#23](https://github.com/jai-dewani/Meme-App/pull/23) in [jai-dewani/Meme-App](https://github.com/jai-dewani/Meme-App)
+3. ❌ Closed PR [#11](https://github.com/jai-dewani/Meme-App/pull/11) in [jai-dewani/Meme-App](https://github.com/jai-dewani/Meme-App)
+4. 🗣 Commented on [#11](https://github.com/jai-dewani/Meme-App/issues/11) in [jai-dewani/Meme-App](https://github.com/jai-dewani/Meme-App)
+5. ❗️ Opened issue [#438](https://github.com/EddieHubCommunity/awesome-github-profiles/issues/438) in [EddieHubCommunity/awesome-github-profiles](https://github.com/EddieHubCommunity/awesome-github-profiles)
 <!--END_SECTION:activity-->
