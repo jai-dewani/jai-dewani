@@ -23,9 +23,9 @@ Follow me on Twitter: ![Twitter Follow](https://img.shields.io/twitter/follow/ja
 
 ##### My Recent Activity
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#27](https://github.com/jai-dewani/Meme-App/pull/27) in [jai-dewani/Meme-App](https://github.com/jai-dewani/Meme-App)
-2. 💪 Opened PR [#27](https://github.com/jai-dewani/Meme-App/pull/27) in [jai-dewani/Meme-App](https://github.com/jai-dewani/Meme-App)
-3. 🎉 Merged PR [#26](https://github.com/jai-dewani/Meme-App/pull/26) in [jai-dewani/Meme-App](https://github.com/jai-dewani/Meme-App)
-4. 💪 Opened PR [#26](https://github.com/jai-dewani/Meme-App/pull/26) in [jai-dewani/Meme-App](https://github.com/jai-dewani/Meme-App)
-5. 🎉 Merged PR [#25](https://github.com/jai-dewani/Meme-App/pull/25) in [jai-dewani/Meme-App](https://github.com/jai-dewani/Meme-App)
+1. 💪 Opened PR [#512](https://github.com/education/GitHubGraduation-2021/pull/512) in [education/GitHubGraduation-2021](https://github.com/education/GitHubGraduation-2021)
+2. ❗️ Opened issue [#37](https://github.com/jai-dewani/Meme-App/issues/37) in [jai-dewani/Meme-App](https://github.com/jai-dewani/Meme-App)
+3. 🗣 Commented on [#1](https://github.com/cassidoo/morsemoji/issues/1) in [cassidoo/morsemoji](https://github.com/cassidoo/morsemoji)
+4. ❗️ Opened issue [#1](https://github.com/cassidoo/morsemoji/issues/1) in [cassidoo/morsemoji](https://github.com/cassidoo/morsemoji)
+5. ❗️ Opened issue [#36](https://github.com/jai-dewani/Meme-App/issues/36) in [jai-dewani/Meme-App](https://github.com/jai-dewani/Meme-App)
 <!--END_SECTION:activity-->
