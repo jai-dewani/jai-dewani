@@ -23,9 +23,9 @@ Follow me on Twitter: ![Twitter Follow](https://img.shields.io/twitter/follow/ja
 
 ##### My Recent Activity
 <!--START_SECTION:activity-->
-1. ❗️ Opened issue [#42](https://github.com/jai-dewani/memeify/issues/42) in [jai-dewani/memeify](https://github.com/jai-dewani/memeify)
-2. 🎉 Merged PR [#41](https://github.com/jai-dewani/memeify/pull/41) in [jai-dewani/memeify](https://github.com/jai-dewani/memeify)
-3. 💪 Opened PR [#41](https://github.com/jai-dewani/memeify/pull/41) in [jai-dewani/memeify](https://github.com/jai-dewani/memeify)
-4. ❗️ Opened issue [#40](https://github.com/jai-dewani/memeify/issues/40) in [jai-dewani/memeify](https://github.com/jai-dewani/memeify)
-5. ❗️ Closed issue [#39](https://github.com/jai-dewani/Meme-App/issues/39) in [jai-dewani/Meme-App](https://github.com/jai-dewani/Meme-App)
+1. ❗️ Opened issue [#44](https://github.com/jai-dewani/memeify/issues/44) in [jai-dewani/memeify](https://github.com/jai-dewani/memeify)
+2. 🎉 Merged PR [#43](https://github.com/jai-dewani/memeify/pull/43) in [jai-dewani/memeify](https://github.com/jai-dewani/memeify)
+3. ❗️ Closed issue [#42](https://github.com/jai-dewani/memeify/issues/42) in [jai-dewani/memeify](https://github.com/jai-dewani/memeify)
+4. 💪 Opened PR [#43](https://github.com/jai-dewani/memeify/pull/43) in [jai-dewani/memeify](https://github.com/jai-dewani/memeify)
+5. ❗️ Opened issue [#42](https://github.com/jai-dewani/memeify/issues/42) in [jai-dewani/memeify](https://github.com/jai-dewani/memeify)
 <!--END_SECTION:activity-->
