@@ -26,9 +26,9 @@ Follow me on Twitter: ![Twitter Follow](https://img.shields.io/twitter/follow/ja
 
 ##### My Recent Activity
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#63](https://github.com/Mithil467/mitype/issues/63) in [Mithil467/mitype](https://github.com/Mithil467/mitype)
-2. 💪 Opened PR [#79](https://github.com/Mithil467/mitype/pull/79) in [Mithil467/mitype](https://github.com/Mithil467/mitype)
-3. 🎉 Merged PR [#50](https://github.com/jai-dewani/memeify/pull/50) in [jai-dewani/memeify](https://github.com/jai-dewani/memeify)
-4. 🗣 Commented on [#45](https://github.com/jai-dewani/memeify/issues/45) in [jai-dewani/memeify](https://github.com/jai-dewani/memeify)
-5. 🎉 Merged PR [#47](https://github.com/jai-dewani/memeify/pull/47) in [jai-dewani/memeify](https://github.com/jai-dewani/memeify)
+1. ❗️ Opened issue [#1](https://github.com/vanditshah44/Covid-slots-checker/issues/1) in [vanditshah44/Covid-slots-checker](https://github.com/vanditshah44/Covid-slots-checker)
+2. 🗣 Commented on [#63](https://github.com/Mithil467/mitype/issues/63) in [Mithil467/mitype](https://github.com/Mithil467/mitype)
+3. 💪 Opened PR [#79](https://github.com/Mithil467/mitype/pull/79) in [Mithil467/mitype](https://github.com/Mithil467/mitype)
+4. 🎉 Merged PR [#50](https://github.com/jai-dewani/memeify/pull/50) in [jai-dewani/memeify](https://github.com/jai-dewani/memeify)
+5. 🗣 Commented on [#45](https://github.com/jai-dewani/memeify/issues/45) in [jai-dewani/memeify](https://github.com/jai-dewani/memeify)
 <!--END_SECTION:activity-->
