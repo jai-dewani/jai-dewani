@@ -26,9 +26,9 @@ Follow me on Twitter: ![Twitter Follow](https://img.shields.io/twitter/follow/ja
 
 ##### My Recent Activity
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#32](https://github.com/jai-dewani/blogs/pull/32) in [jai-dewani/blogs](https://github.com/jai-dewani/blogs)
-2. 🎉 Merged PR [#31](https://github.com/jai-dewani/blogs/pull/31) in [jai-dewani/blogs](https://github.com/jai-dewani/blogs)
-3. ❗️ Opened issue [#1](https://github.com/vanditshah44/Covid-slots-checker/issues/1) in [vanditshah44/Covid-slots-checker](https://github.com/vanditshah44/Covid-slots-checker)
-4. 🗣 Commented on [#63](https://github.com/Mithil467/mitype/issues/63) in [Mithil467/mitype](https://github.com/Mithil467/mitype)
-5. 💪 Opened PR [#79](https://github.com/Mithil467/mitype/pull/79) in [Mithil467/mitype](https://github.com/Mithil467/mitype)
+1. 🎉 Merged PR [#31](https://github.com/jai-dewani/TapCheif-search-it/pull/31) in [jai-dewani/TapCheif-search-it](https://github.com/jai-dewani/TapCheif-search-it)
+2. 🎉 Merged PR [#32](https://github.com/jai-dewani/blogs/pull/32) in [jai-dewani/blogs](https://github.com/jai-dewani/blogs)
+3. 🎉 Merged PR [#31](https://github.com/jai-dewani/blogs/pull/31) in [jai-dewani/blogs](https://github.com/jai-dewani/blogs)
+4. ❗️ Opened issue [#1](https://github.com/vanditshah44/Covid-slots-checker/issues/1) in [vanditshah44/Covid-slots-checker](https://github.com/vanditshah44/Covid-slots-checker)
+5. 🗣 Commented on [#63](https://github.com/Mithil467/mitype/issues/63) in [Mithil467/mitype](https://github.com/Mithil467/mitype)
 <!--END_SECTION:activity-->
