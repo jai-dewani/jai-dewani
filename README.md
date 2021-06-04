@@ -12,7 +12,7 @@ Follow me on Twitter: ![Twitter Follow](https://img.shields.io/twitter/follow/ja
 
 <details>
   <summary>My github stats</summary>
-[![My github stats](https://github-readme-stats.vercel.app/api?username=jai-dewani)](https://github.com/jai-dewani?tab=repositories)
+  &nbsp;&nbsp;&nbsp;&nbsp;<img src="https://github-readme-stats.vercel.app/api?username=jai-dewani">
 </details>  
 
 ### Recent Blog Posts
