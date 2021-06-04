@@ -26,9 +26,9 @@ Follow me on Twitter: ![Twitter Follow](https://img.shields.io/twitter/follow/ja
 
 ##### My Recent Activity
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#12](https://github.com/jai-dewani/TapCheif-search-it/pull/12) in [jai-dewani/TapCheif-search-it](https://github.com/jai-dewani/TapCheif-search-it)
-2. 🎉 Merged PR [#31](https://github.com/jai-dewani/TapCheif-search-it/pull/31) in [jai-dewani/TapCheif-search-it](https://github.com/jai-dewani/TapCheif-search-it)
-3. 🎉 Merged PR [#32](https://github.com/jai-dewani/blogs/pull/32) in [jai-dewani/blogs](https://github.com/jai-dewani/blogs)
-4. 🎉 Merged PR [#31](https://github.com/jai-dewani/blogs/pull/31) in [jai-dewani/blogs](https://github.com/jai-dewani/blogs)
-5. ❗️ Opened issue [#1](https://github.com/vanditshah44/Covid-slots-checker/issues/1) in [vanditshah44/Covid-slots-checker](https://github.com/vanditshah44/Covid-slots-checker)
+1. 🎉 Merged PR [#30](https://github.com/jai-dewani/blogs/pull/30) in [jai-dewani/blogs](https://github.com/jai-dewani/blogs)
+2. 🎉 Merged PR [#12](https://github.com/jai-dewani/TapCheif-search-it/pull/12) in [jai-dewani/TapCheif-search-it](https://github.com/jai-dewani/TapCheif-search-it)
+3. 🎉 Merged PR [#31](https://github.com/jai-dewani/TapCheif-search-it/pull/31) in [jai-dewani/TapCheif-search-it](https://github.com/jai-dewani/TapCheif-search-it)
+4. 🎉 Merged PR [#32](https://github.com/jai-dewani/blogs/pull/32) in [jai-dewani/blogs](https://github.com/jai-dewani/blogs)
+5. 🎉 Merged PR [#31](https://github.com/jai-dewani/blogs/pull/31) in [jai-dewani/blogs](https://github.com/jai-dewani/blogs)
 <!--END_SECTION:activity-->
