@@ -26,9 +26,9 @@ Follow me on Twitter: ![Twitter Follow](https://img.shields.io/twitter/follow/ja
 
 ##### My Recent Activity
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#14](https://github.com/jai-dewani/jai-dewani.github.io/pull/14) in [jai-dewani/jai-dewani.github.io](https://github.com/jai-dewani/jai-dewani.github.io)
-2. ❗️ Opened issue [#1](https://github.com/rakshakannu/Netflix-Wrapped/issues/1) in [rakshakannu/Netflix-Wrapped](https://github.com/rakshakannu/Netflix-Wrapped)
-3. 🎉 Merged PR [#35](https://github.com/jai-dewani/TapCheif-search-it/pull/35) in [jai-dewani/TapCheif-search-it](https://github.com/jai-dewani/TapCheif-search-it)
-4. 🎉 Merged PR [#29](https://github.com/jai-dewani/blogs/pull/29) in [jai-dewani/blogs](https://github.com/jai-dewani/blogs)
-5. 🎉 Merged PR [#32](https://github.com/jai-dewani/TapCheif-search-it/pull/32) in [jai-dewani/TapCheif-search-it](https://github.com/jai-dewani/TapCheif-search-it)
+1. 💪 Opened PR [#1](https://github.com/imabp/resume/pull/1) in [imabp/resume](https://github.com/imabp/resume)
+2. 🎉 Merged PR [#14](https://github.com/jai-dewani/jai-dewani.github.io/pull/14) in [jai-dewani/jai-dewani.github.io](https://github.com/jai-dewani/jai-dewani.github.io)
+3. ❗️ Opened issue [#1](https://github.com/rakshakannu/Netflix-Wrapped/issues/1) in [rakshakannu/Netflix-Wrapped](https://github.com/rakshakannu/Netflix-Wrapped)
+4. 🎉 Merged PR [#35](https://github.com/jai-dewani/TapCheif-search-it/pull/35) in [jai-dewani/TapCheif-search-it](https://github.com/jai-dewani/TapCheif-search-it)
+5. 🎉 Merged PR [#29](https://github.com/jai-dewani/blogs/pull/29) in [jai-dewani/blogs](https://github.com/jai-dewani/blogs)
 <!--END_SECTION:activity-->
