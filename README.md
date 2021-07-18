@@ -17,10 +17,10 @@ Follow me on Twitter: ![Twitter Follow](https://img.shields.io/twitter/follow/ja
 
 ### Recent Blog Posts
 <!-- BLOG-POST-LIST:START -->
-- [My 6 month Internship Experience (2nd Month)](https://jai-dewani.github.io/blogs/my-internship-experience-2/)
-- [How to extract WiFi Passwords stored on a system using Python](https://jai-dewani.github.io/blogs/extract-wifi-passwords/)
+- [Your one stop solution to sharing your resume with evryone](https://jai-dewani.github.io/blogs/one-stop-solution-to-sharing-your-resume/)
+- [How to extract all WiFi Passwords with a single python script](https://jai-dewani.github.io/blogs/extract-wifi-passwords/)
 - [Windows file explorer being overprotective](https://jai-dewani.github.io/blogs/windows-file-structure/)
-- [Carl Zeiss Interview Experience - FullStack Developer](https://jai-dewani.github.io/blogs/carl-zeiss-interview-experience/)
+- [Carl Zeiss Interview Experience - FullStack Intern](https://jai-dewani.github.io/blogs/carl-zeiss-interview-experience/)
 - [Create Your Own Whatsapp Spambot in 5 Minutes](https://jai-dewani.github.io/blogs/automate-whatsapp/)
 <!-- BLOG-POST-LIST:END -->
 
