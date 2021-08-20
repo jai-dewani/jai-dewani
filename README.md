@@ -26,9 +26,9 @@ Follow me on Twitter: ![Twitter Follow](https://img.shields.io/twitter/follow/ja
 
 ##### My Recent Activity
 <!--START_SECTION:activity-->
-1. ❌ Closed PR [#36](https://github.com/jai-dewani/blogs/pull/36) in [jai-dewani/blogs](https://github.com/jai-dewani/blogs)
-2. 🗣 Commented on [#1](https://github.com/AnuragSahu/SendWhatsppTextByJavaScript/issues/1) in [AnuragSahu/SendWhatsppTextByJavaScript](https://github.com/AnuragSahu/SendWhatsppTextByJavaScript)
-3. 💪 Opened PR [#1](https://github.com/imabp/resume/pull/1) in [imabp/resume](https://github.com/imabp/resume)
-4. 🎉 Merged PR [#14](https://github.com/jai-dewani/jai-dewani.github.io/pull/14) in [jai-dewani/jai-dewani.github.io](https://github.com/jai-dewani/jai-dewani.github.io)
-5. ❗️ Opened issue [#1](https://github.com/rakshakannu/Netflix-Wrapped/issues/1) in [rakshakannu/Netflix-Wrapped](https://github.com/rakshakannu/Netflix-Wrapped)
+1. 🗣 Commented on [#80](https://github.com/samuelmarina/is-even/issues/80) in [samuelmarina/is-even](https://github.com/samuelmarina/is-even)
+2. ❌ Closed PR [#36](https://github.com/jai-dewani/blogs/pull/36) in [jai-dewani/blogs](https://github.com/jai-dewani/blogs)
+3. 🗣 Commented on [#1](https://github.com/AnuragSahu/SendWhatsppTextByJavaScript/issues/1) in [AnuragSahu/SendWhatsppTextByJavaScript](https://github.com/AnuragSahu/SendWhatsppTextByJavaScript)
+4. 💪 Opened PR [#1](https://github.com/imabp/resume/pull/1) in [imabp/resume](https://github.com/imabp/resume)
+5. 🎉 Merged PR [#14](https://github.com/jai-dewani/jai-dewani.github.io/pull/14) in [jai-dewani/jai-dewani.github.io](https://github.com/jai-dewani/jai-dewani.github.io)
 <!--END_SECTION:activity-->
