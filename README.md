@@ -26,9 +26,9 @@ Follow me on Twitter: ![Twitter Follow](https://img.shields.io/twitter/follow/ja
 
 ##### My Recent Activity
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#80](https://github.com/samuelmarina/is-even/issues/80) in [samuelmarina/is-even](https://github.com/samuelmarina/is-even)
-2. ❌ Closed PR [#36](https://github.com/jai-dewani/blogs/pull/36) in [jai-dewani/blogs](https://github.com/jai-dewani/blogs)
-3. 🗣 Commented on [#1](https://github.com/AnuragSahu/SendWhatsppTextByJavaScript/issues/1) in [AnuragSahu/SendWhatsppTextByJavaScript](https://github.com/AnuragSahu/SendWhatsppTextByJavaScript)
-4. 💪 Opened PR [#1](https://github.com/imabp/resume/pull/1) in [imabp/resume](https://github.com/imabp/resume)
-5. 🎉 Merged PR [#14](https://github.com/jai-dewani/jai-dewani.github.io/pull/14) in [jai-dewani/jai-dewani.github.io](https://github.com/jai-dewani/jai-dewani.github.io)
+1. ❗️ Opened issue [#128](https://github.com/markodenic/awesome-tech-blogs/issues/128) in [markodenic/awesome-tech-blogs](https://github.com/markodenic/awesome-tech-blogs)
+2. 🗣 Commented on [#80](https://github.com/samuelmarina/is-even/issues/80) in [samuelmarina/is-even](https://github.com/samuelmarina/is-even)
+3. ❌ Closed PR [#36](https://github.com/jai-dewani/blogs/pull/36) in [jai-dewani/blogs](https://github.com/jai-dewani/blogs)
+4. 🗣 Commented on [#1](https://github.com/AnuragSahu/SendWhatsppTextByJavaScript/issues/1) in [AnuragSahu/SendWhatsppTextByJavaScript](https://github.com/AnuragSahu/SendWhatsppTextByJavaScript)
+5. 💪 Opened PR [#1](https://github.com/imabp/resume/pull/1) in [imabp/resume](https://github.com/imabp/resume)
 <!--END_SECTION:activity-->
