@@ -26,9 +26,9 @@ Follow me on Twitter: ![Twitter Follow](https://img.shields.io/twitter/follow/ja
 
 ##### My Recent Activity
 <!--START_SECTION:activity-->
-1. ❗️ Opened issue [#131](https://github.com/markodenic/awesome-tech-blogs/issues/131) in [markodenic/awesome-tech-blogs](https://github.com/markodenic/awesome-tech-blogs)
-2. ❗️ Opened issue [#1234](https://github.com/wesbos/awesome-uses/issues/1234) in [wesbos/awesome-uses](https://github.com/wesbos/awesome-uses)
-3. ❗️ Opened issue [#128](https://github.com/markodenic/awesome-tech-blogs/issues/128) in [markodenic/awesome-tech-blogs](https://github.com/markodenic/awesome-tech-blogs)
-4. 🗣 Commented on [#80](https://github.com/samuelmarina/is-even/issues/80) in [samuelmarina/is-even](https://github.com/samuelmarina/is-even)
-5. ❌ Closed PR [#36](https://github.com/jai-dewani/blogs/pull/36) in [jai-dewani/blogs](https://github.com/jai-dewani/blogs)
+1. 🗣 Commented on [#132](https://github.com/markodenic/awesome-tech-blogs/issues/132) in [markodenic/awesome-tech-blogs](https://github.com/markodenic/awesome-tech-blogs)
+2. ❌ Closed PR [#132](https://github.com/markodenic/awesome-tech-blogs/pull/132) in [markodenic/awesome-tech-blogs](https://github.com/markodenic/awesome-tech-blogs)
+3. 💪 Opened PR [#132](https://github.com/markodenic/awesome-tech-blogs/pull/132) in [markodenic/awesome-tech-blogs](https://github.com/markodenic/awesome-tech-blogs)
+4. ❗️ Opened issue [#131](https://github.com/markodenic/awesome-tech-blogs/issues/131) in [markodenic/awesome-tech-blogs](https://github.com/markodenic/awesome-tech-blogs)
+5. ❗️ Opened issue [#1234](https://github.com/wesbos/awesome-uses/issues/1234) in [wesbos/awesome-uses](https://github.com/wesbos/awesome-uses)
 <!--END_SECTION:activity-->
