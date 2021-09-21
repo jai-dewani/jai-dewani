@@ -26,9 +26,9 @@ Follow me on Twitter: ![Twitter Follow](https://img.shields.io/twitter/follow/ja
 
 ##### My Recent Activity
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#71](https://github.com/Codesee-io/oss-port/pull/71) in [Codesee-io/oss-port](https://github.com/Codesee-io/oss-port)
-2. ❗️ Opened issue [#51](https://github.com/jai-dewani/memeify/issues/51) in [jai-dewani/memeify](https://github.com/jai-dewani/memeify)
-3. 🗣 Commented on [#132](https://github.com/markodenic/awesome-tech-blogs/issues/132) in [markodenic/awesome-tech-blogs](https://github.com/markodenic/awesome-tech-blogs)
-4. ❌ Closed PR [#132](https://github.com/markodenic/awesome-tech-blogs/pull/132) in [markodenic/awesome-tech-blogs](https://github.com/markodenic/awesome-tech-blogs)
-5. 💪 Opened PR [#132](https://github.com/markodenic/awesome-tech-blogs/pull/132) in [markodenic/awesome-tech-blogs](https://github.com/markodenic/awesome-tech-blogs)
+1. 🗣 Commented on [#1](https://github.com/melledijkstra/python-grpc-chat/issues/1) in [melledijkstra/python-grpc-chat](https://github.com/melledijkstra/python-grpc-chat)
+2. 💪 Opened PR [#71](https://github.com/Codesee-io/oss-port/pull/71) in [Codesee-io/oss-port](https://github.com/Codesee-io/oss-port)
+3. ❗️ Opened issue [#51](https://github.com/jai-dewani/memeify/issues/51) in [jai-dewani/memeify](https://github.com/jai-dewani/memeify)
+4. 🗣 Commented on [#132](https://github.com/markodenic/awesome-tech-blogs/issues/132) in [markodenic/awesome-tech-blogs](https://github.com/markodenic/awesome-tech-blogs)
+5. ❌ Closed PR [#132](https://github.com/markodenic/awesome-tech-blogs/pull/132) in [markodenic/awesome-tech-blogs](https://github.com/markodenic/awesome-tech-blogs)
 <!--END_SECTION:activity-->
