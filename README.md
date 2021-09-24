@@ -26,9 +26,9 @@ Follow me on Twitter: ![Twitter Follow](https://img.shields.io/twitter/follow/ja
 
 ##### My Recent Activity
 <!--START_SECTION:activity-->
-1. ❗️ Opened issue [#2](https://github.com/jai-dewani/DeepNeural-Net-Visualiser/issues/2) in [jai-dewani/DeepNeural-Net-Visualiser](https://github.com/jai-dewani/DeepNeural-Net-Visualiser)
-2. 🗣 Commented on [#1](https://github.com/melledijkstra/python-grpc-chat/issues/1) in [melledijkstra/python-grpc-chat](https://github.com/melledijkstra/python-grpc-chat)
-3. 💪 Opened PR [#71](https://github.com/Codesee-io/oss-port/pull/71) in [Codesee-io/oss-port](https://github.com/Codesee-io/oss-port)
-4. ❗️ Opened issue [#51](https://github.com/jai-dewani/memeify/issues/51) in [jai-dewani/memeify](https://github.com/jai-dewani/memeify)
-5. 🗣 Commented on [#132](https://github.com/markodenic/awesome-tech-blogs/issues/132) in [markodenic/awesome-tech-blogs](https://github.com/markodenic/awesome-tech-blogs)
+1. ❌ Closed PR [#37](https://github.com/jai-dewani/blogs/pull/37) in [jai-dewani/blogs](https://github.com/jai-dewani/blogs)
+2. ❗️ Opened issue [#2](https://github.com/jai-dewani/DeepNeural-Net-Visualiser/issues/2) in [jai-dewani/DeepNeural-Net-Visualiser](https://github.com/jai-dewani/DeepNeural-Net-Visualiser)
+3. 🗣 Commented on [#1](https://github.com/melledijkstra/python-grpc-chat/issues/1) in [melledijkstra/python-grpc-chat](https://github.com/melledijkstra/python-grpc-chat)
+4. 💪 Opened PR [#71](https://github.com/Codesee-io/oss-port/pull/71) in [Codesee-io/oss-port](https://github.com/Codesee-io/oss-port)
+5. ❗️ Opened issue [#51](https://github.com/jai-dewani/memeify/issues/51) in [jai-dewani/memeify](https://github.com/jai-dewani/memeify)
 <!--END_SECTION:activity-->
