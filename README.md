@@ -26,9 +26,9 @@ Follow me on Twitter: ![Twitter Follow](https://img.shields.io/twitter/follow/ja
 
 ##### My Recent Activity
 <!--START_SECTION:activity-->
-1. ❗️ Opened issue [#1](https://github.com/jai-dewani/Meme-Template-API/issues/1) in [jai-dewani/Meme-Template-API](https://github.com/jai-dewani/Meme-Template-API)
-2. ❌ Closed PR [#37](https://github.com/jai-dewani/blogs/pull/37) in [jai-dewani/blogs](https://github.com/jai-dewani/blogs)
-3. ❗️ Opened issue [#2](https://github.com/jai-dewani/DeepNeural-Net-Visualiser/issues/2) in [jai-dewani/DeepNeural-Net-Visualiser](https://github.com/jai-dewani/DeepNeural-Net-Visualiser)
-4. 🗣 Commented on [#1](https://github.com/melledijkstra/python-grpc-chat/issues/1) in [melledijkstra/python-grpc-chat](https://github.com/melledijkstra/python-grpc-chat)
-5. 💪 Opened PR [#71](https://github.com/Codesee-io/oss-port/pull/71) in [Codesee-io/oss-port](https://github.com/Codesee-io/oss-port)
+1. 🗣 Commented on [#131](https://github.com/markodenic/awesome-tech-blogs/issues/131) in [markodenic/awesome-tech-blogs](https://github.com/markodenic/awesome-tech-blogs)
+2. ❗️ Opened issue [#1](https://github.com/jai-dewani/Meme-Template-API/issues/1) in [jai-dewani/Meme-Template-API](https://github.com/jai-dewani/Meme-Template-API)
+3. ❌ Closed PR [#37](https://github.com/jai-dewani/blogs/pull/37) in [jai-dewani/blogs](https://github.com/jai-dewani/blogs)
+4. ❗️ Opened issue [#2](https://github.com/jai-dewani/DeepNeural-Net-Visualiser/issues/2) in [jai-dewani/DeepNeural-Net-Visualiser](https://github.com/jai-dewani/DeepNeural-Net-Visualiser)
+5. 🗣 Commented on [#1](https://github.com/melledijkstra/python-grpc-chat/issues/1) in [melledijkstra/python-grpc-chat](https://github.com/melledijkstra/python-grpc-chat)
 <!--END_SECTION:activity-->
