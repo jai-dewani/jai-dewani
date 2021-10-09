@@ -26,9 +26,9 @@ Follow me on Twitter: ![Twitter Follow](https://img.shields.io/twitter/follow/ja
 
 ##### My Recent Activity
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#54](https://github.com/jai-dewani/memeify/pull/54) in [jai-dewani/memeify](https://github.com/jai-dewani/memeify)
-2. 💪 Opened PR [#54](https://github.com/jai-dewani/memeify/pull/54) in [jai-dewani/memeify](https://github.com/jai-dewani/memeify)
-3. 🗣 Commented on [#278](https://github.com/bndr/pipreqs/issues/278) in [bndr/pipreqs](https://github.com/bndr/pipreqs)
-4. 🎉 Merged PR [#38](https://github.com/jai-dewani/blogs/pull/38) in [jai-dewani/blogs](https://github.com/jai-dewani/blogs)
-5. 🗣 Commented on [#7287](https://github.com/microsoft/WSL/issues/7287) in [microsoft/WSL](https://github.com/microsoft/WSL)
+1. ❗️ Opened issue [#57](https://github.com/jai-dewani/memeify/issues/57) in [jai-dewani/memeify](https://github.com/jai-dewani/memeify)
+2. 🎉 Merged PR [#56](https://github.com/jai-dewani/memeify/pull/56) in [jai-dewani/memeify](https://github.com/jai-dewani/memeify)
+3. ❗️ Closed issue [#55](https://github.com/jai-dewani/memeify/issues/55) in [jai-dewani/memeify](https://github.com/jai-dewani/memeify)
+4. 🗣 Commented on [#35](https://github.com/jai-dewani/memeify/issues/35) in [jai-dewani/memeify](https://github.com/jai-dewani/memeify)
+5. ❗️ Closed issue [#35](https://github.com/jai-dewani/memeify/issues/35) in [jai-dewani/memeify](https://github.com/jai-dewani/memeify)
 <!--END_SECTION:activity-->
