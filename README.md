@@ -26,9 +26,9 @@ Follow me on Twitter: ![Twitter Follow](https://img.shields.io/twitter/follow/ja
 
 ##### My Recent Activity
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#4266](https://github.com/excalidraw/excalidraw/issues/4266) in [excalidraw/excalidraw](https://github.com/excalidraw/excalidraw)
-2. 🗣 Commented on [#4266](https://github.com/excalidraw/excalidraw/issues/4266) in [excalidraw/excalidraw](https://github.com/excalidraw/excalidraw)
-3. 🎉 Merged PR [#59](https://github.com/jai-dewani/memeify/pull/59) in [jai-dewani/memeify](https://github.com/jai-dewani/memeify)
-4. 💪 Opened PR [#59](https://github.com/jai-dewani/memeify/pull/59) in [jai-dewani/memeify](https://github.com/jai-dewani/memeify)
-5. 🗣 Commented on [#58](https://github.com/jai-dewani/memeify/issues/58) in [jai-dewani/memeify](https://github.com/jai-dewani/memeify)
+1. 💪 Opened PR [#4369](https://github.com/excalidraw/excalidraw/pull/4369) in [excalidraw/excalidraw](https://github.com/excalidraw/excalidraw)
+2. ❗️ Opened issue [#4368](https://github.com/excalidraw/excalidraw/issues/4368) in [excalidraw/excalidraw](https://github.com/excalidraw/excalidraw)
+3. 🗣 Commented on [#4266](https://github.com/excalidraw/excalidraw/issues/4266) in [excalidraw/excalidraw](https://github.com/excalidraw/excalidraw)
+4. 🗣 Commented on [#4266](https://github.com/excalidraw/excalidraw/issues/4266) in [excalidraw/excalidraw](https://github.com/excalidraw/excalidraw)
+5. 🗣 Commented on [#4266](https://github.com/excalidraw/excalidraw/issues/4266) in [excalidraw/excalidraw](https://github.com/excalidraw/excalidraw)
 <!--END_SECTION:activity-->
