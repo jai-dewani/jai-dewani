@@ -26,9 +26,9 @@ Follow me on Twitter: ![Twitter Follow](https://img.shields.io/twitter/follow/ja
 
 ##### My Recent Activity
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#4368](https://github.com/excalidraw/excalidraw/issues/4368) in [excalidraw/excalidraw](https://github.com/excalidraw/excalidraw)
+1. 💪 Opened PR [#4370](https://github.com/excalidraw/excalidraw/pull/4370) in [excalidraw/excalidraw](https://github.com/excalidraw/excalidraw)
 2. 🗣 Commented on [#4368](https://github.com/excalidraw/excalidraw/issues/4368) in [excalidraw/excalidraw](https://github.com/excalidraw/excalidraw)
-3. 🗣 Commented on [#4369](https://github.com/excalidraw/excalidraw/issues/4369) in [excalidraw/excalidraw](https://github.com/excalidraw/excalidraw)
-4. 💪 Opened PR [#4369](https://github.com/excalidraw/excalidraw/pull/4369) in [excalidraw/excalidraw](https://github.com/excalidraw/excalidraw)
-5. ❗️ Opened issue [#4368](https://github.com/excalidraw/excalidraw/issues/4368) in [excalidraw/excalidraw](https://github.com/excalidraw/excalidraw)
+3. 🗣 Commented on [#4368](https://github.com/excalidraw/excalidraw/issues/4368) in [excalidraw/excalidraw](https://github.com/excalidraw/excalidraw)
+4. 🗣 Commented on [#4369](https://github.com/excalidraw/excalidraw/issues/4369) in [excalidraw/excalidraw](https://github.com/excalidraw/excalidraw)
+5. 💪 Opened PR [#4369](https://github.com/excalidraw/excalidraw/pull/4369) in [excalidraw/excalidraw](https://github.com/excalidraw/excalidraw)
 <!--END_SECTION:activity-->
